@@ -28,7 +28,7 @@ Launch in your browser with one click:
 
 ## 📷 Sample Output Screenshot
 
-![App Screenshot](https://drive.google.com/file/d/1et_ElpJn1Em2ABsBcoCVRJJEqr4Zp5ZB/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1et_ElpJn1Em2ABsBcoCVRJJEqr4Zp5ZB)
 
 --- 
 
